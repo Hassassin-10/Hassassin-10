@@ -13,10 +13,10 @@
 ![](https://github-profile-trophy.vercel.app/?username=HASSASSIN-10&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=random)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radial)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=HASSASSIN-10&icon=0&color=5)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=HASSASSIN-10&icon=0&color=6)](https://visitcount.itsvg.in)
 
 ## 💰 You can help me by Donating
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/Hassassin.10) 
