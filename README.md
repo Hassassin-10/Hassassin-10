@@ -15,6 +15,8 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=HASSASSIN-10&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 
+![Leetcode Stats](https://leetcard.jacoblin.cool/hassassin10?ext=contest)
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
