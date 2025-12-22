@@ -1,27 +1,149 @@
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/46MJAC9NN9) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/hassassin10) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/22417396) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@ACUgamerzH) 
+<!-- ===================== HEADER ===================== -->
+<p align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=B91C1C&height=220&section=header&text=HASSASSIN%20D.%20DEV&fontSize=70&fontColor=FDE047&animation=fadeIn"
+    width="100%"
+  />
+</p>
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![nVIDIA](https://img.shields.io/badge/cuda-000000.svg?style=for-the-badge&logo=nVIDIA&logoColor=green) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Rails](https://img.shields.io/badge/rails-%23CC0000.svg?style=for-the-badge&logo=ruby-on-rails&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white) ![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white)
-
-# 📊 GitHub Stats:
-<img align="right" height="30" src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif"  />
-
-###
-![](https://github-readme-stats.vercel.app/api?username=HASSASSIN-10&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Hassassin-10&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=HASSASSIN-10&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=HASSASSIN-10&theme=radical&no-frame=true&no-bg=false&margin-w=4)
-
-![Leetcode Stats](https://leetcard.jacoblin.cool/hassassin10?ext=contest)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<p align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Pirata+One&size=30&pause=1000&color=FDE047&center=true&vCenter=true&width=520&lines=The+One+Piece+is+Real!;Seeking+the+Grand+Line+of+Code;Bounty:+3,000,000,000+Berries"
+  />
+</p>
 
 ---
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hassassin-10&label=Profile%20views&color=0e75b6&style=flat" alt="hassassin-10" /> </p>
 
-## 💰 You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/Hassassin.10) 
+<!-- ===================== MANIFEST + WANTED ===================== -->
+<table width="100%">
+  <tr>
+    <!-- LEFT -->
+    <td width="50%" align="center" valign="top">
+
+### 📜 SHIP'S MANIFEST
+
+<img src="https://img.shields.io/badge/RANK-YONKO-FDE047?style=for-the-badge" />
+<img src="https://img.shields.io/badge/ROLE-CAPTAIN-B91C1C?style=for-the-badge" />
+
+<br/>
+
+<img src="https://img.shields.io/badge/LOCATION-KARNATAKA-2ea44f?style=for-the-badge" />
+<img src="https://img.shields.io/badge/QUEST-Unity-007ec6?style=for-the-badge" />
+
+<br/>
+
+<img src="https://img.shields.io/badge/FRUIT-GOMU_GOMU-9cf?style=for-the-badge" />
+<img src="https://img.shields.io/badge/HAKI-RUST_&_SYSTEMS-black?style=for-the-badge" />
+
+<br/><br/>
+
+<a href="https://linkedin.com/in/hassassin10">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge" />
+</a>
+<a href="https://discord.gg/46MJAC9NN9">
+<img src="https://img.shields.io/badge/Discord-Join_Crew-7289DA?style=for-the-badge" />
+</a>
+<br/>
+<a href="https://stackoverflow.com/users/22417396">
+<img src="https://img.shields.io/badge/Stack_Overflow-Ask-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" />
+</a>
+<a href="https://www.youtube.com/@ACUgamerzH">
+<img src="https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+</a>
+ 
+
+<!-- RIGHT -->
+  <td width="50%" align="center" valign="top">
+
+### ⚠️ WANTED ⚠️  
+**DEAD OR ALIVE**
+
+<img
+  src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGwweXhpYXFpMDZqd3R4bHoxbGl5dGtnOWExN3FsZG43OXNrb3ZibyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/DSxKEQoQix9hC/giphy.gif"
+  width="70%"
+/>
+
+**HASSASSIN**  
+**฿ 3,000,000,000-**
+
+  </td>
+  </tr>
+</table>
+</td>
+
+---
+
+<!-- ===================== TECH STACK ===================== -->
+<div align="center">
+  <h3>☠️ STRAW HAT CREW ABILITIES (TECH STACK) ☠️</h3>
+  
+  <table border="0" width="100%">
+    <thead>
+      <tr>
+        <th align="center" width="20%">Style</th>
+        <th align="center" width="20%">Crew Member</th>
+        <th align="left">Tech Arsenal</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td align="center"><b>⚔️ SANTORYU</b></td>
+        <td align="center"><i>Zoro (Power)</i></td>
+        <td>
+          <img src="https://skillicons.dev/icons?i=c,cpp,rust,java&theme=dark" />
+        </td>
+      </tr>
+      <tr>
+        <td align="center"><b>🍳 DIABLE JAMBE</b></td>
+        <td align="center"><i>Sanji (Service)</i></td>
+        <td>
+          <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,flutter,html,css&theme=dark" />
+        </td>
+      </tr>
+      <tr>
+        <td align="center"><b>🧠 ARCHAEOLOGY</b></td>
+        <td align="center"><i>Robin (Intel)</i></td>
+        <td>
+          <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,anaconda,py,cuda&theme=dark" />
+        </td>
+      </tr>
+      <tr>
+        <td align="center"><b>⛈️ CLIMA-TACT</b></td>
+        <td align="center"><i>Nami (Cloud)</i></td>
+        <td>
+          <img src="https://skillicons.dev/icons?i=aws,azure,docker,kubernetes,git&theme=dark" />
+        </td>
+      </tr>
+      <tr>
+        <td align="center"><b>🤖 FRANKY SHOGUN</b></td>
+        <td align="center"><i>Franky (Build)</i></td>
+        <td>
+          <img src="https://skillicons.dev/icons?i=arduino,unity,unreal,dotnet,cs&theme=dark" />
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
+---
+
+<!-- ===================== STATS ===================== -->
+<div align="center">
+  <h3>📊 GRAND LINE STATS</h3>
+  <table width="100%">
+    <tr>
+      <td width="50%"><img src="https://github-readme-stats.vercel.app/api?username=HASSASSIN-10&show_icons=true&theme=dracula&hide_border=true&count_private=true&title_color=FDE047&icon_color=FDE047&bg_color=0D1117" width="100%" /></td>
+      <td width="50%"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HASSASSIN-10&theme=dracula&layout=compact&hide_border=true&title_color=FDE047&icon_color=FDE047&bg_color=0D1117" width="100%" /></td>
+    </tr>
+    <tr>
+      <td width="50%"><img src="https://nirzak-streak-stats.vercel.app/?user=Hassassin-10&theme=dracula&hide_border=true&stroke=FDE047&ring=B91C1C&fire=FDE047&background=0D1117" width="100%" /></td>
+      <td width="50%"><img src="https://leetcard.jacoblin.cool/hassassin10?theme=dark&font=Pirata+One&font_color=FDE047&border_color=B91C1C" width="100%" /></td>
+    </tr>
+  </table>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=hassassin-10&label=PIRATES_SPOTTED&color=B91C1C&style=for-the-badge" />
+</div>
