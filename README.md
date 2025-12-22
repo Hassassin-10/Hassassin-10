@@ -9,7 +9,7 @@
 
 ###
 ![](https://github-readme-stats.vercel.app/api?username=HASSASSIN-10&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=HASSASSIN-10&theme=dark&hide_border=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Hassassin-10&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=HASSASSIN-10&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
