@@ -132,12 +132,20 @@
   <h3>📊 GRAND LINE STATS</h3>
   <table width="100%">
     <tr>
-      <td width="50%"><img src="https://github-readme-stats.vercel.app/api?username=HASSASSIN-10&show_icons=true&theme=dracula&hide_border=true&count_private=true&title_color=FDE047&icon_color=FDE047&bg_color=0D1117" width="100%" /></td>
-      <td width="50%"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HASSASSIN-10&theme=dracula&layout=compact&hide_border=true&title_color=FDE047&icon_color=FDE047&bg_color=0D1117" width="100%" /></td>
+      <td width="50%">
+        <img src="https://github-readme-stats.vercel.app/api?username=HASSASSIN-10&show_icons=true&theme=dracula&hide_border=true&count_private=true&title_color=FDE047&icon_color=FDE047&bg_color=0D1117&text_color=c9d1d9" width="100%" />
+      </td>
+      <td width="50%">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HASSASSIN-10&theme=dracula&layout=compact&hide_border=true&title_color=FDE047&icon_color=FDE047&bg_color=0D1117&text_color=c9d1d9" width="100%" />
+      </td>
     </tr>
     <tr>
-      <td width="50%"><img src="https://nirzak-streak-stats.vercel.app/?user=Hassassin-10&theme=dracula&hide_border=true&stroke=FDE047&ring=B91C1C&fire=FDE047&background=0D1117" width="100%" /></td>
-      <td width="50%"><img src="https://leetcard.jacoblin.cool/hassassin10?theme=dark&font=Pirata+One&font_color=FDE047&border_color=B91C1C" width="100%" /></td>
+      <td width="50%">
+        <img src="https://nirzak-streak-stats.vercel.app/?user=Hassassin-10&theme=dracula&hide_border=true&stroke=FDE047&ring=FDE047&fire=FDE047&background=0D1117" width="100%" />
+      </td>
+      <td width="50%">
+        <img src="https://leetcard.jacoblin.cool/hassassin10?theme=dark&font_color=c9d1d9&bg_color=0D1117&border=0" width="100%" />
+      </td>
     </tr>
   </table>
 </div>
