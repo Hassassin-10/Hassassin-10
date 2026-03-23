@@ -153,5 +153,14 @@
 <br/>
 
 <div align="center">
+  <h3>💰 You can help me by Donating</h3>
+  <p><i>Even a Yonko needs to eat! Toss some Berries my way to fund the next banquet.</i></p>
+  
+  <a href="https://buymeacoffee.com/Hassassin.10">
+    <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee" />
+  </a>
+
+  <br/><br/>
+
   <img src="https://komarev.com/ghpvc/?username=hassassin-10&label=PIRATES_SPOTTED&color=B91C1C&style=for-the-badge" />
 </div>
